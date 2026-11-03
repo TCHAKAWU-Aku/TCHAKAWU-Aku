@@ -8,7 +8,7 @@
 
 - **Algorithmique** : logique et résolution de problèmes
 - **Programmation** : Python, Java, C, C++, C#
-- **Développement web** : HTML, CSS, Réact
+- **Développement web** : HTML, CSS, React
 - **Java** : Programmation Orientée Objet (POO), Spring Boot
 - **API REST** : conception et utilisation d'API
 - **Bases de données** : SQL
