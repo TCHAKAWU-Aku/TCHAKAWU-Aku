@@ -1,16 +1,31 @@
-## Hi there 👋
+# Bonjour 👋, je suis Aku TCHAKAWU
 
-<!--
-**TCHAKAWU-Aku/TCHAKAWU-Aku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiante en Informatique – Intelligence Artificielle et Big Data chez Ascencia Keyce.
 
-Here are some ideas to get you started:
+💻 Passionnée par le développement informatique, les nouvelles technologies et l'innovation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Compétences et domaines d'apprentissage
+
+- **Algorithmique** : logique et résolution de problèmes
+- **Programmation** : Python, Java, C, C++, C#
+- **Développement web** : HTML, CSS, RéaCt
+- **Java** : Programmation Orientée Objet (POO), Spring Boot
+- **API REST** : conception et utilisation d'API
+- **Bases de données** : SQL
+- **Réseaux informatiques** : CCNA
+- **ERP** : systèmes de gestion intégrés
+- **Ingénierie du besoin et analyse fonctionnelle**
+- **Infographie et modélisation 3D**
+- **Assembleur**
+- **Droit informatique**
+
+## 🎯 Objectif professionnel
+
+Devenir ingénieure en Intelligence Artificielle et développer des solutions technologiques innovantes.
+
+## 📚 Centres d'intérêt
+
+- Intelligence Artificielle
+- Big Data
+- Développement logiciel
+- Technologies et innovation
